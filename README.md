@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<h1 align="center">Hi, I'm Jahnavi Saxena</h1>
+
+<h6 align="center"><h6 align="center">DevOps enthusiast turning code into pipelines and ideas into automation. I work with CI/CD, Docker, Terraform, and cloud platforms to keep things running smooth (and break them responsibly to learn faster).
+
+
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivanya-bharadwaj-7a8a57282) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanyabhrdwj@gmail.com) 
 
