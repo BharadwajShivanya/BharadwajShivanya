@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<h1 align="center">Hi, I'm Jahnavi Saxena</h1>
+
+<h1 align="center">Hi, I'm Shivanya Bharadwaj</h1>
 
 <h6 align="center"><h6 align="center">DevOps enthusiast turning code into pipelines and ideas into automation. I work with CI/CD, Docker, Terraform, and cloud platforms to keep things running smooth (and break them responsibly to learn faster).
 
