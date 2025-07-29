@@ -1,4 +1,4 @@
-<img src="https://pin.it/6W3vPx3v9" alt="Pixel Art Room GIF" width="360" height="640" />
+<img src="https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif" alt="Pixel Art Room GIF" width="360" height="640" />
 
 <h1 align="center">Hi, I'm Shivanya Bharadwaj</h1>
 
