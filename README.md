@@ -1,5 +1,6 @@
-<img src="https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif" alt="Pixel Art Room GIF" width="950" height="760" />
+<!-- <img src="https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif" alt="Pixel Art Room GIF" width="950" height="760" /> -->
 
+<img src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif" alt="Pixel Art Room GIF" width="950" height="760" />
 <h1 align="center">Hi, I'm Shivanya Bharadwaj</h1>
 
 <h6 align="center"><h6 align="center">DevOps enthusiast turning code into pipelines and ideas into automation. I work with CI/CD, Docker, Terraform, and cloud platforms to keep things running smooth (and break them responsibly to learn faster).
