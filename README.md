@@ -1,7 +1,4 @@
-<img src="https://v1.pinimg.com/videos/mc/720p/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5.mp4(https://pin.it/3DpnUnakD)" alt="Pixel Art Room GIF" width="360" height="640" />
-<img src="[https://v1.pinimg.com/videos/mc/720p/d8/2c/e7/d82ce7fbb0b2c37d642162fed355dab5.mp4(https://pin.it/3DpnUnakD](https://in.pinterest.com/pin/10414642882819311/)" alt="Pixel Art Room GIF" width="360" height="640" />
-
-
+<img src="https://pin.it/6W3vPx3v9" alt="Pixel Art Room GIF" width="360" height="640" />
 
 <h1 align="center">Hi, I'm Shivanya Bharadwaj</h1>
 
